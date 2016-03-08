@@ -5,7 +5,7 @@ body {
 main {
   wdith: 900px;
   height: 500px;
-  background-color: #809fff;
+  background-color: #4d94ff;
 }
 
 .carddeeppink {
@@ -71,65 +71,80 @@ main {
 }
 
 .firstname {
-  margin: 0 0 0 0;
+  margin: 20px 0 0 0;
+  text-align: center;
 
 }
 
 .lastname {
-  margin: 0 0 0 0;
+  margin: 20px 0 0 0;
+  text-align: center;
 }
 
 .email {
-  margin: 0 0 0 0;
+  margin: 20px 0 0 0;
+  text-align: center;
 }
 
 .country {
-  margin: 0 0 0 0;
+  margin: 20px 0 0 0;
+  text-align: center;
 }
 
 .biography {
-  margin: 0 0 0 0;
+  margin: 20px 0 0 0;
+  text-align: center;
   padding: 0;
 }
 
 .phonenumber {
-  margin: 0 0 0 0;
+  margin: 20px 0 0 0;
+  text-align: center;
 }
 
 .affiliations {
-  margin: 0 0 0 0;
+  margin: 20px 0 0 0;
+  text-align: center;
 }
 
 .occupation {
-  margin: 0 0 0 0;
+  margin: 20px 0 0 0;
+  text-align: center;
 }
 
 .catsname {
-  margin: 0 0 0 0;
+  margin: 20px 0 0 0;
+  text-align: center;
 }
 
 .favoritegadget {
-  margin: 0 0 0 0;
+  margin: 20px 0 0 0;
+  text-align: center;
 }
 
 .typeoftalent {
-  margin: 0 0 0 0;
+  margin: 20px 0 0 0;
+  text-align: center;
 }
 
 .favoritedrink {
-  margin: 0 0 0 0;
+  margin: 20px 0 0 0;
+  text-align: center;
 }
 
 .specialpower {
-  margin: 0 0 0 0;
+  margin: 20px 0 0 0;
+  text-align: center;
 }
 
 .weaponofchoice {
-  margin: 0 0 0 0;
+  margin: 20px 0 0 0;
+  text-align: center;
 }
 
 .comments {
-  margin: 0 0 0 0;
+  margin: 20px 0 0 0;
+  text-align: center;
 }
 
 
@@ -147,79 +162,80 @@ main {
 
 
 .firstname label {
-  margin: 10px 0 0 40px;
+  margin: 10px 0 0 0;
   color: white;
+
 }
 
 .lastname label {
-  margin: 10px 0 0 40px;
+  margin: 10px 0 0 0;
   color: white;
 }
 
 .email label {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
   color: white;
 }
 
 .country label {
-  margin: 10px 0 0 40px;
+  margin: 10px 0 0 0;
   color: white;
 }
 
 .biography label {
-  margin: 10px 0 0 40px;
+  margin: 10px 0 0 0;
   color: white;
   padding: 0;
 }
 
 .phonenumber label {
-  margin: 10px 0 0 40px;
+  margin: 10px 0 0 0;
   color: white;
 }
 
 .affiliations label {
-  margin: 10px 0 0 40px;
+  margin: 10px 0 0 0;
   color: white;
 }
 
 .occupation label {
-  margin: 10px 0 0 40px;
+  margin: 10px 0 0 0;
   color: white;
 }
 
 .catsname label {
-  margin: 10px 0 0 40px;
+  margin: 10px 0 0 0;
   color: white;
 }
 
 .favoritegadget label {
-  margin: 10px 0 0 40px;
+  margin: 10px 0 0 0;
   color: white;
 }
 
 .typeoftalent label {
-  margin: 10px 0 0 40px;
+  margin: 10px 0 0 0;
   color: white;
 
 }
 
 .favoritedrink label {
-  margin: 10px 0 0 40px;
+  margin: 10px 0 0 0;
   color: white;
 }
 
 .specialpower label {
-  margin: 10px 0 0 40px;
+  margin: 10px 0 0 0;
   color: white;
 }
 
 .weaponofchoice label {
-  margin: 10px 0 0 40px;
+  margin: 10px 0 0 0;
   color: white;
 }
 
 .comments label {
-  margin: 10px 0 0 40px;
+  margin: 10px 0 0 0;
   color: white;
 }
 
@@ -236,24 +252,33 @@ main {
   margin: 10px 0 0 40px;
   color: white;
   border: 1px solid black;
+  width: 200px;
+  height: 20px;
+
 }
 
 .lastname input {
   margin: 10px 0 0 40px;
   color: white;
   border: 1px solid black;
+  width: 200px;
+  height: 20px;
 }
 
 .email input {
   margin: 10px 0 0 40px;
   color: white;
   border: 1px solid black;
+  width: 200px;
+  height: 20px;
 }
 
 .country input {
   margin: 10px 0 0 40px;
   color: white;
   border: 1px solid black;
+  width: 200px;
+  height: 20px;
 }
 
 .biography input {
@@ -261,42 +286,56 @@ main {
   color: white;
   padding: 0;
   border: 1px solid black;
+  width: 200px;
+  height: 20px;
 }
 
 .phonenumber input {
   margin: 10px 0 0 40px;
   color: white;
   border: 1px solid black;
+  width: 200px;
+  height: 20px;
 }
 
 .affiliations input {
   margin: 10px 0 0 40px;
   color: white;
   border: 1px solid black;
+  width: 200px;
+  height: 20px;
 }
 
 .occupation input {
   margin: 10px 0 0 40px;
   color: white;
   border: 1px solid black;
+  width: 200px;
+  height: 20px;
 }
 
 .catsname input {
   margin: 10px 0 0 40px;
   color: white;
   border: 1px solid black;
+  width: 200px;
+  height: 20px;
 }
 
 .favoritegadget input {
   margin: 10px 0 0 40px;
   color: white;
   border: 1px solid black;
+  width: 200px;
+  height: 20px;
 }
 
 .typeoftalent input {
   margin: 10px 0 0 40px;
   color: white;
   border: 1px solid black;
+  width: 200px;
+  height: 20px;
 
 }
 
@@ -304,22 +343,30 @@ main {
   margin: 10px 0 0 40px;
   color: white;
   border: 1px solid black;
+  width: 200px;
+  height: 20px;
 }
 
 .specialpower input {
   margin: 10px 0 0 40px;
   color: white;
   border: 1px solid black;
+  width: 200px;
+  height: 20px;
 }
 
 .weaponofchoice input {
   margin: 10px 0 0 40px;
   color: white;
   border: 1px solid black;
+  width: 200px;
+  height: 20px;
 }
 
 .comments input {
   margin: 10px 0 0 40px;
   color: white;
   border: 1px solid black;
+  width: 200px;
+  height: 20px;
 }
