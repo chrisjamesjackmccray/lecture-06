@@ -5,7 +5,7 @@ body {
 main {
   wdith: 900px;
   height: 500px;
-  background-color: #4d94ff;
+  background-color: #7ab3ff;
 }
 
 .carddeeppink {
@@ -251,122 +251,234 @@ main {
 .firstname input {
   margin: 10px 0 0 40px;
   color: white;
-  border: 1px solid black;
+  border: 1px solid white;
   width: 200px;
   height: 20px;
+  background-color: #7ab3ff;
 
 }
 
 .lastname input {
   margin: 10px 0 0 40px;
   color: white;
-  border: 1px solid black;
+  border: 1px solid white;
   width: 200px;
   height: 20px;
+  background-color: #7ab3ff;
+
 }
 
 .email input {
   margin: 10px 0 0 40px;
   color: white;
-  border: 1px solid black;
+  border: 1px solid white;
   width: 200px;
   height: 20px;
+  background-color: #7ab3ff;
+
 }
 
 .country input {
   margin: 10px 0 0 40px;
   color: white;
-  border: 1px solid black;
+  border: 1px solid white;
   width: 200px;
   height: 20px;
+  background-color: #7ab3ff;
 }
+
+
 
 .biography input {
   margin: 10px 0 0 40px;
   color: white;
   padding: 0;
-  border: 1px solid black;
+  border: 1px solid white;
   width: 200px;
   height: 20px;
+  background-color: #7ab3ff;
+
 }
 
 .phonenumber input {
   margin: 10px 0 0 40px;
   color: white;
-  border: 1px solid black;
+  border: 1px solid white;
   width: 200px;
   height: 20px;
+  background-color: #7ab3ff;
 }
 
 .affiliations input {
   margin: 10px 0 0 40px;
   color: white;
-  border: 1px solid black;
+  border: 1px solid white;
   width: 200px;
   height: 20px;
+  background-color: #7ab3ff;
 }
 
 .occupation input {
   margin: 10px 0 0 40px;
   color: white;
-  border: 1px solid black;
+  border: 1px solid white;
   width: 200px;
   height: 20px;
+  background-color: #7ab3ff;
 }
 
 .catsname input {
   margin: 10px 0 0 40px;
   color: white;
-  border: 1px solid black;
+  border: 1px solid white;
   width: 200px;
   height: 20px;
+  background-color: #7ab3ff;
 }
 
 .favoritegadget input {
   margin: 10px 0 0 40px;
   color: white;
-  border: 1px solid black;
+  border: 1px solid white;
   width: 200px;
   height: 20px;
+  background-color: #7ab3ff;
 }
 
 .typeoftalent input {
   margin: 10px 0 0 40px;
   color: white;
-  border: 1px solid black;
+  border: 1px solid white;
   width: 200px;
   height: 20px;
+  background-color: #7ab3ff;
+
 
 }
 
 .favoritedrink input {
   margin: 10px 0 0 40px;
   color: white;
-  border: 1px solid black;
+  border: 1px solid white;
   width: 200px;
   height: 20px;
+  background-color: #7ab3ff;
 }
 
 .specialpower input {
   margin: 10px 0 0 40px;
   color: white;
-  border: 1px solid black;
+  border: 1px solid white;
   width: 200px;
   height: 20px;
+  background-color: #7ab3ff;
 }
 
 .weaponofchoice input {
   margin: 10px 0 0 40px;
   color: white;
-  border: 1px solid black;
+  border: 1px solid white;
   width: 200px;
   height: 20px;
+  background-color: #7ab3ff;
 }
 
 .comments input {
   margin: 10px 0 0 40px;
   color: white;
-  border: 1px solid black;
+  border: 1px solid white;
   width: 200px;
   height: 20px;
+  background-color: #7ab3ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.firstname:hover input {
+border: 1px solid black;
+
+}
+
+.lastname:hover input {
+  border: 1px solid black;
+
+
+}
+
+.email:hover input {
+  border: 1px solid black;
+
+
+}
+
+.country:hover input {
+  border: 1px solid black;
+
+}
+
+.biography:hover input {
+  border: 1px solid black;
+
+
+}
+
+.phonenumber:hover input {
+  border: 1px solid black;
+
+}
+
+.affiliations:hover input {
+  border: 1px solid black;
+
+}
+
+.occupation:hover input {
+  border: 1px solid black;
+
+}
+
+.catsname:hover input {
+  border: 1px solid black;
+
+}
+
+.favoritegadget:hover input {
+  border: 1px solid black;
+
+}
+
+.typeoftalent:hover input {
+  border: 1px solid black;
+
+
+
+}
+
+.favoritedrink:hover input {
+border: 1px solid black;
+}
+
+.specialpower:hover input {
+border: 1px solid black;
+}
+
+.weaponofchoice:hover input {
+border: 1px solid black;
+}
+
+.comments:hover input {
+border: 1px solid black;
 }
