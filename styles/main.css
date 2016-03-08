@@ -20,6 +20,7 @@ main {
   width: 400px;
   height: 400px;
   margin: 0 0 1rem;
+
 }
 
 .cardred {
@@ -70,65 +71,65 @@ main {
 }
 
 .firstname {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
 
 }
 
 .lastname {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
 }
 
 .email {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
 }
 
 .country {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
 }
 
 .biography {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
   padding: 0;
 }
 
 .phonenumber {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
 }
 
 .affiliations {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
 }
 
 .occupation {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
 }
 
 .catsname {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
 }
 
 .favoritegadget {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
 }
 
 .typeoftalent {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
 }
 
 .favoritedrink {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
 }
 
 .specialpower {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
 }
 
 .weaponofchoice {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
 }
 
 .comments {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
 }
 
 
@@ -220,4 +221,105 @@ main {
 .comments label {
   margin: 10px 0 0 40px;
   color: white;
+}
+
+
+
+
+
+
+
+
+
+
+.firstname input {
+  margin: 10px 0 0 40px;
+  color: white;
+  border: 1px solid black;
+}
+
+.lastname input {
+  margin: 10px 0 0 40px;
+  color: white;
+  border: 1px solid black;
+}
+
+.email input {
+  margin: 10px 0 0 40px;
+  color: white;
+  border: 1px solid black;
+}
+
+.country input {
+  margin: 10px 0 0 40px;
+  color: white;
+  border: 1px solid black;
+}
+
+.biography input {
+  margin: 10px 0 0 40px;
+  color: white;
+  padding: 0;
+  border: 1px solid black;
+}
+
+.phonenumber input {
+  margin: 10px 0 0 40px;
+  color: white;
+  border: 1px solid black;
+}
+
+.affiliations input {
+  margin: 10px 0 0 40px;
+  color: white;
+  border: 1px solid black;
+}
+
+.occupation input {
+  margin: 10px 0 0 40px;
+  color: white;
+  border: 1px solid black;
+}
+
+.catsname input {
+  margin: 10px 0 0 40px;
+  color: white;
+  border: 1px solid black;
+}
+
+.favoritegadget input {
+  margin: 10px 0 0 40px;
+  color: white;
+  border: 1px solid black;
+}
+
+.typeoftalent input {
+  margin: 10px 0 0 40px;
+  color: white;
+  border: 1px solid black;
+
+}
+
+.favoritedrink input {
+  margin: 10px 0 0 40px;
+  color: white;
+  border: 1px solid black;
+}
+
+.specialpower input {
+  margin: 10px 0 0 40px;
+  color: white;
+  border: 1px solid black;
+}
+
+.weaponofchoice input {
+  margin: 10px 0 0 40px;
+  color: white;
+  border: 1px solid black;
+}
+
+.comments input {
+  margin: 10px 0 0 40px;
+  color: white;
+  border: 1px solid black;
 }
