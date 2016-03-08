@@ -1,3 +1,8 @@
+.main {
+  display: clearfix;
+}
+
+
 body {
   margin: 0 0 0 0;
   background-color: #7ab3ff;
@@ -72,80 +77,86 @@ main {
 }
 
 .firstname {
+  /*margin: 20px 0 0 0;*/
+  /*text-align: center;*/
+  /*padding: 0 0 0 80px;*/
+
+  padding: 0 0 0 80px;
   margin: 20px 0 0 0;
-  text-align: center;
 
 }
 
 .lastname {
+  padding: 0 0 0 80px;
   margin: 20px 0 0 0;
-  text-align: center;
+
 }
 
 .email {
+
+  padding: 0 0 0 80px;
   margin: 20px 0 0 0;
-  text-align: center;
 }
 
 .country {
+  padding: 0 0 0 80px;
   margin: 20px 0 0 0;
-  text-align: center;
+
 }
 
 .biography {
+  padding: 0 0 0 80px;
   margin: 20px 0 0 0;
-  text-align: center;
-  padding: 0;
 }
 
 .phonenumber {
+  padding: 0 0 0 80px;
   margin: 20px 0 0 0;
-  text-align: center;
 }
 
 .affiliations {
-  margin: 20px 0 0 0;
-  text-align: center;
+padding: 0 0 0 80px;
+margin: 20px 0 0 0;
 }
 
 .occupation {
+  padding: 0 0 0 80px;
   margin: 20px 0 0 0;
-  text-align: center;
 }
 
 .catsname {
+  padding: 0 0 0 80px;
   margin: 20px 0 0 0;
-  text-align: center;
 }
 
 .favoritegadget {
+  padding: 0 0 0 80px;
   margin: 20px 0 0 0;
-  text-align: center;
 }
 
 .typeoftalent {
-  margin: 20px 0 0 0;
-  text-align: center;
+ padding: 0 0 0 80px;
+ margin: 20px 0 0 0;
 }
 
 .favoritedrink {
+  padding: 0 0 0 80px;
   margin: 20px 0 0 0;
-  text-align: center;
 }
 
 .specialpower {
+  padding: 0 0 0 80px;
   margin: 20px 0 0 0;
-  text-align: center;
 }
 
 .weaponofchoice {
+  padding: 0 0 0 80px;
   margin: 20px 0 0 0;
-  text-align: center;
 }
 
 .comments {
+  padding: 0 0 0 80px;
   margin: 20px 0 0 0;
-  text-align: center;
 }
 
 
@@ -163,81 +174,96 @@ main {
 
 
 .firstname label {
-  margin: 10px 0 0 0;
+  /*margin: 10px 0 0 0;*/
   color: white;
+  display: block;
 
 }
 
 .lastname label {
   margin: 10px 0 0 0;
   color: white;
+  display: block;
 }
 
 .email label {
   margin: 0 0 0 0;
   color: white;
+  display: block;
 }
 
 .country label {
   margin: 10px 0 0 0;
   color: white;
+  display: block;
 }
 
 .biography label {
   margin: 10px 0 0 0;
   color: white;
   padding: 0;
+  display: block;
 }
 
 .phonenumber label {
   margin: 10px 0 0 0;
   color: white;
+  display: block;
 }
 
 .affiliations label {
   margin: 10px 0 0 0;
   color: white;
+  display: block;
 }
 
 .occupation label {
   margin: 10px 0 0 0;
   color: white;
+  display: block;
 }
 
 .catsname label {
   margin: 10px 0 0 0;
   color: white;
+  display: block;
 }
 
 .favoritegadget label {
   margin: 10px 0 0 0;
   color: white;
+  display: block;
 }
 
 .typeoftalent label {
   margin: 10px 0 0 0;
   color: white;
+  display: block;
 
 }
 
 .favoritedrink label {
   margin: 10px 0 0 0;
   color: white;
+  display: block;
 }
 
 .specialpower label {
   margin: 10px 0 0 0;
   color: white;
+  display: block;
 }
 
 .weaponofchoice label {
   margin: 10px 0 0 0;
   color: white;
+  display: block;
 }
 
 .comments label {
   margin: 10px 0 0 0;
   color: white;
+  display: block;
 }
 
 
@@ -250,17 +276,18 @@ main {
 
 
 .firstname input {
-  margin: 10px 0 0 40px;
+  /*margin: 10px 0 0 40px;*/
   color: white;
   border: 1px solid white;
   width: 200px;
   height: 20px;
   background-color: #7ab3ff;
+  margin: 0 0 0 0;
 
 }
 
 .lastname input {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
   color: white;
   border: 1px solid white;
   width: 200px;
@@ -270,7 +297,7 @@ main {
 }
 
 .email input {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
   color: white;
   border: 1px solid white;
   width: 200px;
@@ -280,7 +307,7 @@ main {
 }
 
 .country input {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
   color: white;
   border: 1px solid white;
   width: 200px;
@@ -291,7 +318,7 @@ main {
 
 
 .biography textarea {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
   color: white;
   padding: 0;
   border: 1px solid white;
@@ -302,7 +329,7 @@ main {
 }
 
 .phonenumber input {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
   color: white;
   border: 1px solid white;
   width: 200px;
@@ -311,7 +338,7 @@ main {
 }
 
 .affiliations textarea {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
   color: white;
   border: 1px solid white;
   width: 200px;
@@ -320,7 +347,7 @@ main {
 }
 
 .occupation input {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
   color: white;
   border: 1px solid white;
   width: 200px;
@@ -329,7 +356,7 @@ main {
 }
 
 .catsname input {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
   color: white;
   border: 1px solid white;
   width: 200px;
@@ -338,7 +365,7 @@ main {
 }
 
 .favoritegadget input {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
   color: white;
   border: 1px solid white;
   width: 200px;
@@ -347,7 +374,7 @@ main {
 }
 
 .typeoftalent input {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
   color: white;
   border: 1px solid white;
   width: 200px;
@@ -358,7 +385,7 @@ main {
 }
 
 .favoritedrink input {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
   color: white;
   border: 1px solid white;
   width: 200px;
@@ -367,7 +394,7 @@ main {
 }
 
 .specialpower input {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
   color: white;
   border: 1px solid white;
   width: 200px;
@@ -376,7 +403,7 @@ main {
 }
 
 .weaponofchoice input {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
   color: white;
   border: 1px solid white;
   width: 200px;
@@ -385,7 +412,7 @@ main {
 }
 
 .comments textarea {
-  margin: 10px 0 0 40px;
+  margin: 0 0 0 0;
   color: white;
   border: 1px solid white;
   width: 200px;
