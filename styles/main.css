@@ -4,14 +4,13 @@ body {
 
 main {
   wdith: 900px;
-  height: 900px;
-  background-color: lightgrey;
+  height: 500px;
+  background-color: #809fff;
 }
 
 .carddeeppink {
   width: 400px;
   height: 400px;
-  background-color: deeppink;
   margin: 0 0 1rem 1rem;
 
 
@@ -20,14 +19,12 @@ main {
 .cardblue {
   width: 400px;
   height: 400px;
-  background-color: blue;
   margin: 0 0 1rem;
 }
 
 .cardred {
   width: 400px;
   height: 400px;
-  background-color: red;
   margin: 0 0 1rem;
 }
 
@@ -35,7 +32,8 @@ main {
   .cardblue {
     width: 400px;
     height: 400px;
-    background-color: blue;
+    background-color: none;
+    border: 1px solid black;
     margin: 0 0 1rem 1rem;
     float: left;
 
@@ -46,7 +44,8 @@ main {
   .deeppink {
     width: 400px;
     height: 400px;
-    background-color: deeppink;
+    background-color: none;
+    border: 1px solid black;
     margin: 0 0 1rem 1rem;
     float: left;
 
@@ -57,7 +56,8 @@ main {
   .cardred {
     width: 400px;
     height: 400px;
-    background-color: red;
+    background-color: none;
+    border: 1px solid black;
     margin: 0 0 1rem 1rem;
     float: left;
 
@@ -71,6 +71,7 @@ main {
 
 .firstname {
   margin: 10px 0 0 40px;
+
 }
 
 .lastname {
@@ -128,4 +129,95 @@ main {
 
 .comments {
   margin: 10px 0 0 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.firstname label {
+  margin: 10px 0 0 40px;
+  color: white;
+}
+
+.lastname label {
+  margin: 10px 0 0 40px;
+  color: white;
+}
+
+.email label {
+  margin: 10px 0 0 40px;
+  color: white;
+}
+
+.country label {
+  margin: 10px 0 0 40px;
+  color: white;
+}
+
+.biography label {
+  margin: 10px 0 0 40px;
+  color: white;
+  padding: 0;
+}
+
+.phonenumber label {
+  margin: 10px 0 0 40px;
+  color: white;
+}
+
+.affiliations label {
+  margin: 10px 0 0 40px;
+  color: white;
+}
+
+.occupation label {
+  margin: 10px 0 0 40px;
+  color: white;
+}
+
+.catsname label {
+  margin: 10px 0 0 40px;
+  color: white;
+}
+
+.favoritegadget label {
+  margin: 10px 0 0 40px;
+  color: white;
+}
+
+.typeoftalent label {
+  margin: 10px 0 0 40px;
+  color: white;
+
+}
+
+.favoritedrink label {
+  margin: 10px 0 0 40px;
+  color: white;
+}
+
+.specialpower label {
+  margin: 10px 0 0 40px;
+  color: white;
+}
+
+.weaponofchoice label {
+  margin: 10px 0 0 40px;
+  color: white;
+}
+
+.comments label {
+  margin: 10px 0 0 40px;
+  color: white;
 }
