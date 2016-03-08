@@ -1,11 +1,12 @@
 body {
   margin: 0 0 0 0;
+  background-color: #7ab3ff;
+
 }
 
 main {
   wdith: 900px;
   height: 500px;
-  background-color: #7ab3ff;
 }
 
 .carddeeppink {
@@ -289,7 +290,7 @@ main {
 
 
 
-.biography input {
+.biography textarea {
   margin: 10px 0 0 40px;
   color: white;
   padding: 0;
@@ -309,7 +310,7 @@ main {
   background-color: #7ab3ff;
 }
 
-.affiliations input {
+.affiliations textarea {
   margin: 10px 0 0 40px;
   color: white;
   border: 1px solid white;
@@ -383,7 +384,7 @@ main {
   background-color: #7ab3ff;
 }
 
-.comments input {
+.comments textarea {
   margin: 10px 0 0 40px;
   color: white;
   border: 1px solid white;
@@ -400,85 +401,86 @@ main {
 
 
 
+textarea:focus {
+  border: 1px solid black;
+}
+
+input:focus {
+  border: 1px solid black;
+}
 
 
 
 
-
-
-
-.firstname:hover input {
+.firstname:focus input {
 border: 1px solid black;
 
 }
 
-.lastname:hover input {
+.lastname:focus input {
   border: 1px solid black;
 
 
 }
 
-.email:hover input {
+.email:focus input {
   border: 1px solid black;
 
 
 }
 
-.country:hover input {
+.country:focus input {
   border: 1px solid black;
 
 }
 
-.biography:hover input {
+.biography:focus input {
   border: 1px solid black;
 
 
 }
 
-.phonenumber:hover input {
+.phonenumber:focus input {
   border: 1px solid black;
 
 }
 
-.affiliations:hover input {
+.affiliations:focus input {
   border: 1px solid black;
 
 }
 
-.occupation:hover input {
+.occupation:focus input {
   border: 1px solid black;
 
 }
 
-.catsname:hover input {
+.catsname:focus input {
   border: 1px solid black;
 
 }
 
-.favoritegadget:hover input {
+.favoritegadget:focus input {
   border: 1px solid black;
 
 }
 
-.typeoftalent:hover input {
+.typeoftalent:focus input {
   border: 1px solid black;
-
-
-
 }
 
-.favoritedrink:hover input {
+.favoritedrink:focus input {
 border: 1px solid black;
 }
 
-.specialpower:hover input {
+.specialpower:focus input {
 border: 1px solid black;
 }
 
-.weaponofchoice:hover input {
+.weaponofchoice:focus input {
 border: 1px solid black;
 }
 
-.comments:hover input {
+.comments:focus input {
 border: 1px solid black;
 }
