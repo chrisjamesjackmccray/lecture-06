@@ -5,14 +5,15 @@ body {
 main {
   wdith: 900px;
   height: 900px;
-  background-color: orange;
+  background-color: lightgrey;
 }
 
-.cardblack {
+.carddeeppink {
   width: 400px;
   height: 400px;
-  background-color: black;
-  margin: 0 0 1rem;
+  background-color: deeppink;
+  margin: 0 0 1rem 1rem;
+
 
 }
 
@@ -31,13 +32,60 @@ main {
 }
 
 @media screen and (min-width: 300px) {
-  .card {
+  .cardblue {
     width: 400px;
     height: 400px;
     background-color: blue;
-    margin: 0 0 1rem;
+    margin: 0 0 1rem 1rem;
     float: left;
 
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .deeppink {
+    width: 400px;
+    height: 400px;
+    background-color: deeppink;
+    margin: 0 0 1rem 1rem;
+    float: left;
 
   }
+}
+
+@media screen and (min-width: 300px) {
+  .cardred {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    margin: 0 0 1rem 1rem;
+    float: left;
+
+  }
+}
+
+.clearfix {
+  overflow: auto;
+  zoom: 1;
+}
+
+.firstname {
+  margin: 10px 0 0 40px;
+}
+
+.lastname {
+  margin: 10px 0 0 40px;
+}
+
+.email {
+  margin: 10px 0 0 40px;
+}
+
+.country {
+  margin: 10px 0 0 40px;
+}
+
+.biography {
+  margin: 10px 0 0 40px;
+  padding: 0;
 }
